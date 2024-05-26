@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color:darkgrey;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.heading h1{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.number h1{
+    text-align: center;
+    font-size: 55px;
+    margin-bottom: 15px;
+}
+.buttons button{
+    padding: 4px 15px;
+    border-radius: 5px;
+    margin: 3px;
+    transition: 0.5s;
+}
+.buttons button:hover{
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+}
