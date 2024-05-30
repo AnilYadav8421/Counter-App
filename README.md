@@ -1,5 +1,5 @@
 # Counter-App
-
+[Demo](https://anilyadav8421.github.io/Counter-App/)
 The Counter App is a simple yet functional web application that allows users to increment, decrement, and reset a counter. This project demonstrates fundamental web development skills and provides a user-friendly interface for managing numerical values.
 
 # Features
